@@ -1,0 +1,1 @@
+import{d as s,v as a,ah as e,o as n,c as o,aQ as r}from"./index.ff1c4658.js";const t=s({__name:"index",setup(s){const t=a("");return e((s=>{t.value=decodeURIComponent(s.url)})),(s,a)=>{const e=r;return n(),o(e,{src:t.value},null,8,["src"])}}});export{t as default};

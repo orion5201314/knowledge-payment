@@ -1,0 +1,1 @@
+import{r as e}from"./index.e02ff63f.js";function n(t){return e.get({url:"/questionbank.questionbank_record/lists",params:t})}function i(t){return e.get({url:"/questionbank.questionbank_record/detail",params:t})}export{i as D,n as g};

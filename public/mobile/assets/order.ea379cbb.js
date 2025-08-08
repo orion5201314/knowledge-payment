@@ -1,0 +1,1 @@
+import{_ as r}from"./index.ff1c4658.js";const a=a=>r.post({url:"/order/sumbitOrder",data:a}),e=a=>r.get({url:"/order/lists",data:a},{ignoreCancel:!0}),t=a=>r.get({url:"/order/detail",data:a}),d=a=>r.post({url:"/order/cancel",data:a}),s=a=>r.post({url:"/order/del",data:a});export{a,e as b,d as c,s as d,t as e};
